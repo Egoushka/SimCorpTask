@@ -1,0 +1,16 @@
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\bin\Debug\net5.0\SimCorpTask.exe
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\bin\Debug\net5.0\SimCorpTask.deps.json
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\bin\Debug\net5.0\SimCorpTask.runtimeconfig.json
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\bin\Debug\net5.0\SimCorpTask.runtimeconfig.dev.json
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\bin\Debug\net5.0\SimCorpTask.dll
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\bin\Debug\net5.0\ref\SimCorpTask.dll
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\bin\Debug\net5.0\SimCorpTask.pdb
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\obj\Debug\net5.0\SimCorpTask.csproj.AssemblyReference.cache
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\obj\Debug\net5.0\SimCorpTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\obj\Debug\net5.0\SimCorpTask.AssemblyInfoInputs.cache
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\obj\Debug\net5.0\SimCorpTask.AssemblyInfo.cs
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\obj\Debug\net5.0\SimCorpTask.csproj.CoreCompileInputs.cache
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\obj\Debug\net5.0\SimCorpTask.dll
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\obj\Debug\net5.0\ref\SimCorpTask.dll
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\obj\Debug\net5.0\SimCorpTask.pdb
+C:\Users\yehor.hrabovskyi\RiderProjects\SimCorpTask\SimCorpTask\obj\Debug\net5.0\SimCorpTask.genruntimeconfig.cache
